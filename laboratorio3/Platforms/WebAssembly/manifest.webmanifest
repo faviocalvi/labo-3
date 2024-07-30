@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "laboratorio3",
+  "display": "standalone",
+  "name": "laboratorio3",
+  "short_name": "laboratorio3",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
